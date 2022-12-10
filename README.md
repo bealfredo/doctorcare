@@ -1,2 +1,2 @@
-# doctorcare
-Você pode ver o resultado na página online: <a href="https://bealfredo.github.io/doctorcare/" target="blank">https://bealfredo.github.io/doctorcare/<a/>
+# Doctorcare
+Você pode ver o resultado na página: https://bealfredo.github.io/doctorcare/
